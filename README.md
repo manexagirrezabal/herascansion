@@ -6,6 +6,8 @@ In this project we make the first steps toward understanding typological differe
   - [English](english.md)
   - [Spanish](spanish.md)
   - [Basque](https://bitbucket.org/manexagirrezabal/basquepoetrycorpus/src)
+  
+We will soon release some specific scripts to read these corpora.
 
 # Features
 There are specific implementations to get some necessary features, such as:

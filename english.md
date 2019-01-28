@@ -1,2 +1,4 @@
 # English corpus
-We used a corpus of English poetry for training and testing our models, called [For Better For Verse](https://github.com/waynegraham/for_better_for_verse/tree/master/poems). This corpus was developed by Herbert Tucker, from the Scholars' Lab at the University of Virginia especially for an [interactive website](http://prosody.lib.virginia.edu/) for learning how to scan English poetry.
+We used a corpus of English poetry for training and testing our models, called [For Better For Verse](https://github.com/manexagirrezabal/for_better_for_verse/tree/master/poems). The linked repository is a fork of the original repository. We made some changes so that our corpus reader reads the files properly. This corpus was developed by Herbert Tucker, from the Scholars' Lab at the University of Virginia especially for an [interactive website](http://prosody.lib.virginia.edu/) for learning how to scan English poetry.
+
+Then, we can read the corpus files using the following [script](script.sh). This script requires the English poetry corpus reader that we have in the [following repository](https://bitbucket.org/manexagirrezabal/poetrycorpusreader/src/master/).
